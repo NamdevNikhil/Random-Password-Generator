@@ -9,7 +9,7 @@ A simple and customizable random password generator built with React and JavaScr
 -Copy generated password to clipboard with one click
 
 ## Usage
-- Adjust the password length using the slider or input field.
+-Adjust the password length using the slider or input field.
 
 -Select the character types you want to include in your password.
 
